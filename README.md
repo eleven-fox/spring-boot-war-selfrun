@@ -1,7 +1,13 @@
 # spring-boot-war-selfrun
 
 #### 项目介绍
+<<<<<<< HEAD
 spring boot项目，生成war文件，支持java -jar的方式启动项目，内嵌tomcat或者jetty容器。
+=======
+{**以下是码云平台说明，您可以替换为您的项目简介**
+码云是开源中国推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
+无论是个人、团队、或是企业，都能够用码云实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+>>>>>>> fa4519e5feee25bfb6bf9c600d1a3d264f2508b5
 
 #### 软件架构
 软件架构说明
